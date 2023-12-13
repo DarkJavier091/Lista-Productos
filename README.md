@@ -1,5 +1,6 @@
 # Lista-Productos
-.[!IMPORTANT]
+[!CAUTION]
+
 Este proyecto aun está en desarrollo, puede encontrarse errores como fallos graves dentro del proyecto.
 
 Paginación Web con PHP para listrar productos empresariales.
