@@ -1,0 +1,38 @@
+/* Estilo general del cuerpo */
+body {
+    background-color: #f0f0f0; /* Color de fondo gris claro */
+    font-family: Arial, sans-serif; /* Fuente Arial */
+    margin: 0; /* Sin márgenes */
+  }
+  
+  /* Estilo del título h1 */
+  h1 {
+    color: #006699; /* Color azul oscuro */
+    text-align: center; /* Centrado */
+    padding: 20px; /* Espacio alrededor */
+  }
+  
+  /* Estilo de los formularios */
+  form {
+    width: 300px; /* Ancho fijo */
+    margin: 0 auto; /* Centrado */
+    border: 1px solid #ccc; /* Borde gris */
+    padding: 10px; /* Espacio interno */
+  }
+  
+  /* Estilo de los botones */
+  input[type="button"], input[type="submit"] {
+    display: block; /* Ocupar toda la línea */
+    width: 100%; /* Ancho completo */
+    padding: 10px; /* Espacio interno */
+    color: white; /* Color blanco */
+    background-color: #006699; /* Color azul oscuro */
+    border: none; /* Sin borde */
+    cursor: pointer; /* Cambiar el cursor al pasar el ratón */
+  }
+  
+  /* Estilo de los botones al pasar el ratón */
+  input[type="button"]:hover, input[type="submit"]:hover {
+    background-color: #00557F; /* Color azul más oscuro */
+  }
+  

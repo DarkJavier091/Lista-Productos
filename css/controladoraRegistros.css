@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  .registro {
+    width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid black;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 5px;
+  }
+  
+  strong {
+    font-weight: bold;
+  }
+  
+  span {
+    color: #6d6d6d;
+  }
+  
